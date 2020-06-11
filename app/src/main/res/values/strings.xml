@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SchoolDiary</string>
+    <string name="title_activity_auth">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="mark_as_passed">Mark as passed</string>
+    <string name="mark_as_current">Mark As Current</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="sign_up">Sign up</string>
+    <string name="log_in">Log in</string>
+    <string name="log_out">Log out</string>
+    <string name="share">Share</string>
+    <string name="github">Github</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+</resources>

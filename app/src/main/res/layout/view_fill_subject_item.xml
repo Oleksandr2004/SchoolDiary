@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="2dp"
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/fill_subject_number"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:background="@color/colorAccent"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="1"
+        android:textColor="@android:color/white" />
+
+    <EditText
+        android:id="@+id/fill_subject"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorPrimaryDark"
+        android:textColorHint="@android:color/secondary_text_dark"
+        android:textColor="@android:color/white"
+        android:textFontWeight="20"
+        android:hint="Subject"
+        android:padding="@dimen/padding_1"
+        android:singleLine="true" />
+
+</LinearLayout>
